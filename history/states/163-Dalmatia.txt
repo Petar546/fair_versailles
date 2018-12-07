@@ -1,0 +1,20 @@
+state=
+{
+	id=163
+	name="STATE_163"
+	manpower = 1
+	
+	state_category = enclave
+	
+	history={
+		owner = UKR
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = UKR
+	} 
+	provinces={	
+		3469 3567 6477 6591 9552 11396 11412 11475
+	}
+}
