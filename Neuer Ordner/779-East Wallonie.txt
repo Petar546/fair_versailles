@@ -1,0 +1,16 @@
+state={
+	id=779
+	name="STATE_779"
+	provinces={ 3488 6537 9418 9444 11407 }
+	manpower=1
+	resources={}
+	state_category = city
+	history={
+		owner = BEL
+		buildings = {
+			infrastructure = 6
+			air_base = 3
+		}
+		add_core_of = BEL
+	}
+}

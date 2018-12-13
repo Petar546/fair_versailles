@@ -1,0 +1,15 @@
+state={
+	id=765
+	name="STATE_765"
+	provinces={ 521 3560 5291 11516 }
+	manpower=1
+	resources={}
+	state_category = city
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 7
+		}
+		add_core_of = FRA
+	}
+}

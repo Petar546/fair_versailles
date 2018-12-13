@@ -1,0 +1,16 @@
+state={
+	id=775
+	name="STATE_775"
+	provinces={ 1324 1353 4251 4302 4359 4639 5236 7319 7376 7404 7432 10134 10177 10289 10317 10467 12191 12447 12460 12475 }
+	manpower=1
+	resources={}
+	state_category = city
+	history={
+		owner = SIA
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = SIA
+		add_claim_by = CAM
+	}
+}
